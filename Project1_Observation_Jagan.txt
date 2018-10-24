@@ -1,0 +1,5 @@
+The sales trend across months are not following any specific pattern, the sales spike for a particular time period and drops back to the avaerage value. The reason for the spike could be because of the random one time promos happening across the stores throughout the year.
+Since this is a Drug Store we see an even amount of sales spread across all week days, and sales on Monday looks more promising because the stores are closed on Sunday and obviously next day attracts more sales.
+Out of 4 diffrent types of Stores, store type 'B' is more popular among customers also yeilds more sales, so the one time promos in these stores are not making a bigger difference compared to other stores.
+The increase in competetion makes Rossman introduce continuous Promos in stores which are closer to competitiors.
+The stores with continuous promo has less number of customer foot print's, may be because of the competition, but the positive outcome is the avarage customer spending in these stores approximately '1$' more compare to stores without continuous promos.
